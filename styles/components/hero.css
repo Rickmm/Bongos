@@ -1,0 +1,47 @@
+.hero{
+    display: flex
+}
+
+
+.hero_left{
+    width: 50rem;
+    height: 30rem;
+    padding-inline:1rem;
+}
+
+.painel{
+    border: 10px solid #11161D;
+    border-radius: 20px;    
+    height: 30rem;
+
+}
+
+.iconeprog{
+    height: 100px;
+    margin-top: 1.3rem;
+    padding-inline: 10rem ;
+    
+}
+
+.hero_right{
+    width: 100rem;
+    height: 30rem;
+}
+
+.title_intro{
+    font-family: "Roboto Mono", monospace;
+    font-size: 4rem;
+    color:rgba(255, 255, 255, 0.973);
+    padding-left: 4rem;
+    letter-spacing: -0.2rem;
+    margin-block:0.05em
+}
+
+.desc_intro{
+    font-family: "Roboto Mono", monospace;
+    font-size: 1.5rem;
+    padding-left: 4.5rem;
+    letter-spacing: -0.15rem;
+    max-width: 55ch;
+    text-justify: auto;
+}
