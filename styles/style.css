@@ -13,7 +13,8 @@
 
 body {
     min-height: 100vh;
-    background-color: #002041;
+    background-image:linear-gradient(400deg, rgba(161, 160, 160, 0.2), rgb(13, 13, 14));
+    background-color: rgb(4, 4, 66);
     font-family: "Poppins", sans-serif;
 }
 
@@ -42,8 +43,3 @@ h6 {
     letter-spacing: -0.025em;
 }
 
-.background{
-    background-image:linear-gradient(400deg, rgba(161, 160, 160, 0.2), rgb(13, 13, 14));
-    background-size: contain ;
-    padding: 0;
-}

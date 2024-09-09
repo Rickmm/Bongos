@@ -49,14 +49,14 @@
     font-family: "Roboto Mono", monospace;
     font-size: 1.5rem;
     padding-left: 4.5rem;
-    letter-spacing: -0.15rem;
+    letter-spacing: -0.01rem;
     max-width: 55ch;
     text-justify: auto;
 }
 
 .git_button{
-    background: rgb(37, 36, 36) ;
-    border: 10px solid rgb(37, 36, 36) ;
+    background: rgb(90, 89, 89)  ;
+    border: 10px solid rgb(90, 89, 89)  ;
     border-radius: 8px; 
     font-family: "Roboto Mono", monospace;
     font-size: 1.5rem;
@@ -70,13 +70,13 @@
 }
 
 .insta_button{
-    background: rgb(37, 36, 36) ;
-    border: 10px solid rgb(37, 36, 36) ;
+    background: rgb(90, 89, 89) ;
+    border: 10px solid rgb(90, 89, 89)  ;
     border-radius: 8px; 
     font-family: "Roboto Mono", monospace;
     font-size: 1.4rem;
     margin-top: 12em;
-    margin-left: 4rem;
+    margin-left: 4em;
 }
 
 .insta_link{
