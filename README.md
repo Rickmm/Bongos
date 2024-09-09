@@ -1,1 +1,1 @@
-Um projeto de portfolio em CSS e HTML puros
+Um projeto de portfolio em HTML e CSS puros
